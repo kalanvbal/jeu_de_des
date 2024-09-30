@@ -1,0 +1,5 @@
+Objectif : obtenir la somme de dés la plus élevé.
+
+Règle : Lancez les dés et placez-les afin d'obtenir le plus grand nombre possible. 
+Si vous obtenez un 4 et un 6, par exemple, votre somme serait de 10.
+Notez votre réponse, passez les dés et défiez votre adversaire de BEAT THAT!
